@@ -16,7 +16,7 @@ clientmoi.on('guildMemberAdd', memberadd =>{
     .setColor('#00dcff')
     .setDescription(":wink:  Salut " + memberadd.user + " je trés heureux qui tu sois arrivé dans le serveur de @Mr_fox141 !!! :star_struck: ")
     .setAuthor("🇯🇵 Bourgeois・レオ🇨🇦#9792")
-memberadd.guild.channels.get('729802069153677749').send(embed)
+memberadd.guild.channels.get('830157647675785256').send(embed)
 })
 
 
