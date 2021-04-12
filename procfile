@@ -1,8 +1,9 @@
+worker: node index.js
+worker: npm index.js
+
 "scripts": {
   "start": "node index.js"
 }
 
-web node index.js
-web npm start
-web start index.js
-web npm index.js
+worker: node index.js
+worker: npm index.js
